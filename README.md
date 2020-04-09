@@ -1,2 +1,2 @@
 # diseno-grafico
-Diseño gráfico
+Una web creada en el marco de la asignatura Diseño gráfico.
